@@ -1,6 +1,3 @@
-I now have a thorough understanding of the ShowPass codebase patterns. Let me compile the complete FormForge architecture document.
-
----
 
 # FormForge -- Form Builder & Submission API: Complete Architecture Document
 
